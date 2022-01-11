@@ -1,0 +1,7 @@
+Priyank priyank_2k priyank_2k
+Sandeep sandy sandy
+
+Already included file name '/home/priyank/Programs/my_music_player/my-music-player/src/firebase.js' differs from file name '/home/priyank/Programs/my_music_player/my-music-player/src/Firebase.js' only in casing.
+  The file is in the program because:
+    Imported via "./firebase.js" from file '/home/priyank/Programs/my_music_player/my-music-player/src/Player_trial.js'
+    Root file specified for compilation

@@ -1,0 +1,65 @@
+.__Player{
+	width:100%;
+}
+._player_body{
+    display: flex;
+}
+
+.__Sidebar{
+	flex:0.25;
+}
+.__Body{
+	flex:0.75;
+}
+
+.__Footer_par{
+	
+}
+._sidebar
+{
+    flex:0.15;
+    
+    /* background-image: linear-gradient(to bottom, rgb(0, 0, 0) , rgb(32, 0, 67)); */
+    background-color: black;
+    color: antiquewhite;
+    height: 100vh;
+    ;
+}
+
+._body{
+    flex:0.8;
+    border: 1px solid black;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    border: black;
+    
+}
+
+._body_songs{
+    border-radius: 20px;
+}
+.song_row{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+.song_title{
+   flex: 0.8;
+}
+.fav {
+    margin-left: 13px;
+    flex:0.2;
+    display: flex;
+    align-items: center;
+}
+.fav_button{
+    flex:0.5
+}
+.drop_menu{
+    flex : 0.5;
+    color:white;
+}
+hr {
+    color:white;
+}
